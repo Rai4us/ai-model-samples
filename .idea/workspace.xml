@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c104e44-5554-4d0f-bec4-5b63499b8a26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/dto/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/dto/messages/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/dto/messages/content/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/dto/messages/content/ImgContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/dto/messages/content/TxtContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/dto/messages/content/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/dto/messages/request/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/dto/messages/response/ai/ChatCompletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/dto/messages/response/ai/Choice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/dto/messages/response/ai/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/dto/messages/response/ai/TokenDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/dto/messages/response/ai/Usage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/utils/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/utils/OpenAIUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/image_to_text/ImageToText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/text_to_image/TextToImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/text_to_json/TextToJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/text_to_json/dto/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/text_to_json/dto/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/text_to_json/examples/request.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/text_to_json/examples/response.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/text_to_json/format/JsonSchema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/text_to_json/format/ResponseFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/text_to_json/format/Schema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/text_to_json/format/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cat_in_the_forest.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2unyeqon44C0l8pUdbEgTXjVlza" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/text_to_json/examples" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/text_to_json" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TextToImage">
+    <configuration name="ImageToText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.image_to_text.ImageToText" />
+      <module name="ai-model-samples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.image_to_text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextToImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.text_to_image.TextToImage" />
+      <module name="ai-model-samples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.text_to_image.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextToJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.text_to_json.TextToJson" />
+      <module name="ai-model-samples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.text_to_json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TextToImage" />
+        <item itemvalue="Application.ImageToText" />
+        <item itemvalue="Application.TextToJson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c104e44-5554-4d0f-bec4-5b63499b8a26" name="Changes" comment="" />
+      <created>1742898732799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742898732799</updated>
+    </task>
+    <servers />
+  </component>
+</project>

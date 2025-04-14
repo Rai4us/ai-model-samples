@@ -1,0 +1,10 @@
+package org.example.common.utils;
+
+public final class Constant {
+    private Constant() {}
+
+    public static final String BASE_OPEN_AI_URL = "https://api.openai.com/v1";
+
+    public static final String API_KEY = "${OPENAI_API_KEY}";
+
+}
